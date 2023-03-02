@@ -1,0 +1,57 @@
+
+body{
+    background-color: white;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 20px;
+    border: 100px;
+    padding: 80px;
+    margin: 10px;
+}
+
+.Datos-Personales{
+    column-count: 2;
+    column-gap: 100px;
+    column-rule: 5px double #55585885;
+}
+
+h1{
+    text-align: center;
+    color: #131311d8;
+    height: 130px;
+    font-family: 'Great Vibes', cursive;
+    font-weight: 400;
+    font-size: 125px;
+    margin: 10px 0px 30px 0px;
+    background-color: #55585841 ;
+}
+
+
+
+
+h3{
+    text-decoration: underline black;
+}
+
+
+
+#foto-CV{
+    border: solid #3f3939da;
+    height: 600px;
+    vertical-align: middle;
+    margin: 0px 25px;
+}
+
+.Habilidades{
+    column-count: 3;
+    column-gap: 2px;
+    padding-inline-start: 0;
+}
+
+
+
+svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
